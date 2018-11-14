@@ -12,6 +12,7 @@
         <module>simple_factory</module>
         <module>facade</module>
         <module>adapter</module>
+        <module>singleton</module>
     </modules>
 
 
