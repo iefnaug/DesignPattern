@@ -13,6 +13,7 @@
         <module>facade</module>
         <module>adapter</module>
         <module>singleton</module>
+        <module>factory_method</module>
     </modules>
 
 
